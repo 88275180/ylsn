@@ -1,4 +1,4 @@
-## FUN+C端练习demo系统
+## 移动端练习demo系统
 
 技术栈：node+express+mongodb+react
 
