@@ -1,4 +1,4 @@
-## 猿来是你哦微信端系统
+## FUN+C端练习demo系统
 
 技术栈：node+express+mongodb+react
 
